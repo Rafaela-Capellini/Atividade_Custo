@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Professor\\Desktop\\Prepara\u00E7\u00E3o\\CustoFuncionarioApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F386AA1-29CD-4420-BA27-929D1E6341DB}|CustoFuncionarioApp\\CustoFuncionarioApp.csproj|c:\\users\\professor\\desktop\\prepara\u00E7\u00E3o\\custofuncionarioapp\\custofuncionarioapp\\models\\custo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F386AA1-29CD-4420-BA27-929D1E6341DB}|CustoFuncionarioApp\\CustoFuncionarioApp.csproj|solutionrelative:custofuncionarioapp\\models\\custo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F386AA1-29CD-4420-BA27-929D1E6341DB}|CustoFuncionarioApp\\CustoFuncionarioApp.csproj|c:\\users\\professor\\desktop\\prepara\u00E7\u00E3o\\custofuncionarioapp\\custofuncionarioapp\\controllers\\calculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F386AA1-29CD-4420-BA27-929D1E6341DB}|CustoFuncionarioApp\\CustoFuncionarioApp.csproj|solutionrelative:custofuncionarioapp\\controllers\\calculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F386AA1-29CD-4420-BA27-929D1E6341DB}|CustoFuncionarioApp\\CustoFuncionarioApp.csproj|c:\\users\\professor\\desktop\\prepara\u00E7\u00E3o\\custofuncionarioapp\\custofuncionarioapp\\views\\calculo\\relatorio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F386AA1-29CD-4420-BA27-929D1E6341DB}|CustoFuncionarioApp\\CustoFuncionarioApp.csproj|solutionrelative:custofuncionarioapp\\views\\calculo\\relatorio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Relatorio.cshtml",
+              "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\Prepara\u00E7\u00E3o\\CustoFuncionarioApp\\CustoFuncionarioApp\\Views\\Calculo\\Relatorio.cshtml",
+              "RelativeDocumentMoniker": "CustoFuncionarioApp\\Views\\Calculo\\Relatorio.cshtml",
+              "ToolTip": "C:\\Users\\Professor\\Desktop\\Prepara\u00E7\u00E3o\\CustoFuncionarioApp\\CustoFuncionarioApp\\Views\\Calculo\\Relatorio.cshtml",
+              "RelativeToolTip": "CustoFuncionarioApp\\Views\\Calculo\\Relatorio.cshtml",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAEQAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T16:17:17.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculoController.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\Prepara\u00E7\u00E3o\\CustoFuncionarioApp\\CustoFuncionarioApp\\Controllers\\CalculoController.cs",
+              "RelativeDocumentMoniker": "CustoFuncionarioApp\\Controllers\\CalculoController.cs",
+              "ToolTip": "C:\\Users\\Professor\\Desktop\\Prepara\u00E7\u00E3o\\CustoFuncionarioApp\\CustoFuncionarioApp\\Controllers\\CalculoController.cs",
+              "RelativeToolTip": "CustoFuncionarioApp\\Controllers\\CalculoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:16:15.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Custo.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\Prepara\u00E7\u00E3o\\CustoFuncionarioApp\\CustoFuncionarioApp\\Models\\Custo.cs",
+              "RelativeDocumentMoniker": "CustoFuncionarioApp\\Models\\Custo.cs",
+              "ToolTip": "C:\\Users\\Professor\\Desktop\\Prepara\u00E7\u00E3o\\CustoFuncionarioApp\\CustoFuncionarioApp\\Models\\Custo.cs",
+              "RelativeToolTip": "CustoFuncionarioApp\\Models\\Custo.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAIwDsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T18:23:33.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
