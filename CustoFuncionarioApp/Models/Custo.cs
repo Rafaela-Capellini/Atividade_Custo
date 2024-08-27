@@ -46,6 +46,13 @@
             return this.SalarioBruto + this.SalarioBruto / 3;
         }
 
+        // Calcula o percentual que um custo representa em relação ao custo total
+        // Exemplo: De todos os custos, qtos % são referentes a FGTS?
+        public decimal getPercentualDespesa(decimal valorDespesa)
+        {
+            return (valorDespesa / this.getCustoTotal()) * 100;
+        }
+
         public decimal getCustoTotal()
         {
             return this.SalarioBruto +
