@@ -8,7 +8,7 @@ Este repositório contém os arquivos base (com bugs propositais) para análise 
 
 * Obtenha uma cópia desse repositório; 
 ```console
-git clone git remote add origin https://github.com/sergio-lacerda-senai/TSOF-A02-Projeto-CustoFuncionarioApp.git
+git clone https://github.com/sergio-lacerda-senai/TSOF-A02-Projeto-CustoFuncionarioApp.git
 ```
 * Identifique os cenários de testes para todos os métodos (inclusive chamadas às Views das classes Controller);
 * Implemente o Projeto, a classe e os métodos de testes necessários para testar todos os métodos acima;
